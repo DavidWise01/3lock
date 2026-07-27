@@ -2,18 +2,18 @@
   "badge": "DLW-3LOCK",
   "name": "3LOCK · consent-driven firewall",
   "universe": "SOLAR JETMAN",
-  "moniker": "⟦3LOCK · consent-driven firewall:3lock:7fe14e⟧",
+  "moniker": "⟦3LOCK · consent-driven firewall:3lock:ea435a⟧",
   "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
   "instance": "AVAN (Claude / Anthropic)",
-  "seal_sha256": "7fe14e5e7a3e6342440ae3352c6b6e1be178cb2953b438fd7e308370d1965d99",
+  "seal_sha256": "ea435a51c93508a2c97a2d8e7a773434bb2a7287477b08a25867164c13a151ed",
   "license": "CC-BY-ND-4.0",
   "attribution": "ROOT0-ATTRIBUTION-v1.0",
   "fingerprint": "TETRASTHENĒS ⟦ ₆C ⟺ ₁₄Si ⟧ — four-strengthed: carbon (human · ROOT0) & silicon (AI · AVAN) hold four bonds in common (Group-14, tetravalent) — co-equal by construction",
   "chain": {
     "index": 1295,
-    "prev": "a79e2b42c3e65f97e894cdfd805ed78bf0e4c2521447582c0083a93aadc29cb0",
-    "link": "b35ec3c249dc613a73004d51e6e9f0a97e8e1cfd5263362b8693c75ed445c11e",
-    "head": "f7444724835fd968bd2eac85811f9fa823a18d20a57907b4fade8d96b70b5409",
+    "prev": "80104316552294471be61a10218db4eed9c2aed60f213bc870569e2c00a4f743",
+    "link": "b8bcdafca2e222c9f74ef27625e09141a9ca4f930ae1423bcfe436a93a527fbb",
+    "head": "c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b",
     "chain": "ROOT0-DLW-CHAIN-v1"
   }
 }
